@@ -1,0 +1,8 @@
+Origin: M1staAwesome
+Label: M1staAwesome
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: This repo is meant exclusively for Sileo, but can be added to other package managers.
